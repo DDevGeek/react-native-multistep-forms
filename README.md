@@ -5,11 +5,11 @@
 
 You can install this package with the following command:
 
-`yarn add react-native-multistep-forms`
+`yarn add multistep-forms-2`
 
 or
 
-`npm install react-native-multistep-forms`
+`npm install multistep-forms-2`
 
 ## How to use
 
