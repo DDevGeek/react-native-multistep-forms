@@ -1,5 +1,5 @@
 {
-  "name": "@jonathanbav/react-native-multistep-forms",
+  "name": "multistep-forms-2",
   "version": "1.0.0",
   "description": "this a cool animated package for handle multi step screens of react native",
   "main": "index.js",
