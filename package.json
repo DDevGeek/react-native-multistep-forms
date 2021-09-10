@@ -1,6 +1,6 @@
 {
-  "name": "react-native-multistep-forms",
-  "version": "0.0.1",
+  "name": "@jonathanbav/react-native-multistep-forms",
+  "version": "1.0.0",
   "description": "this a cool animated package for handle multi step screens of react native",
   "main": "index.js",
   "directories": {
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trinadhkoya/react-native-multistep-forms.git"
+    "url": "git+https://github.com/jonathandev/react-native-multistep-forms.git"
   },
   "author": "Trinadh Koya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trinadhkoya/react-native-multistep-forms.git/issues"
+    "url": "https://github.com/jonathandev/react-native-multistep-forms.git/issues"
   },
-  "homepage": "https://github.com/trinadhkoya/react-native-multistep-forms.git#readme"
+  "homepage": "https://github.com/jonathandev/react-native-multistep-forms.git#readme"
 }
